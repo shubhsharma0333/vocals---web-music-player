@@ -1,3 +1,5 @@
+Site live at : https://vocals.netlify.app/
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
